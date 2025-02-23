@@ -138,7 +138,7 @@ socialLink:
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
   qq:
-  bilibili: https://space.bilibili.com/38507723?spm_id_from=333.1387.0.0
+  # bilibili: https://space.bilibili.com/38507723?spm_id_from=333.1387.0.0
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
   rss: true # true、false
