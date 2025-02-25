@@ -6,7 +6,7 @@
   <link href="https://chenapr.github.io/atom.xml" rel="self"/>
   
   <link href="https://chenapr.github.io/"/>
-  <updated>2025-02-23T18:36:36.032Z</updated>
+  <updated>2025-02-25T10:12:35.509Z</updated>
   <id>https://chenapr.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://chenapr.github.io/2025/02/23/hello-world/"/>
-    <id>https://chenapr.github.io/2025/02/23/hello-world/</id>
-    <published>2025-02-23T18:36:36.032Z</published>
-    <updated>2025-02-23T18:36:36.032Z</updated>
+    <link href="https://chenapr.github.io/2025/02/25/hello-world/"/>
+    <id>https://chenapr.github.io/2025/02/25/hello-world/</id>
+    <published>2025-02-25T10:12:35.509Z</published>
+    <updated>2025-02-25T10:12:35.509Z</updated>
     
     
       
@@ -29,6 +29,27 @@
         
         
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test</title>
+    <link href="https://chenapr.github.io/2025/02/24/test/"/>
+    <id>https://chenapr.github.io/2025/02/24/test/</id>
+    <published>2025-02-24T08:12:01.000Z</published>
+    <updated>2025-02-25T10:12:35.509Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-Bash&quot; data-language=&quot;Bash&quot;&gt;&lt;code class=&quot;language-Bash&quot;&gt;$ grep -r &quot;hello world&quot; ./&quot;&lt;span</summary>
         
       
     
