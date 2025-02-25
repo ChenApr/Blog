@@ -21,9 +21,23 @@
       <link href="/Blog/2025/02/24/test/"/>
       <url>/Blog/2025/02/24/test/</url>
       
-        <content type="html"><![CDATA[<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">git</span> commit <span class="token parameter variable">-m</span> <span class="token string">"chore: This is useless"</span><span class="token function">git</span> push <span class="token parameter variable">-u</span> origin main<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><pre class="line-numbers language-cpp" data-language="cpp"><code class="language-cpp"><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"hello\n"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Hello, world!'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">git</span> commit <span class="token parameter variable">-m</span> <span class="token string">"chore: This is useless"</span><span class="token function">git</span> push <span class="token parameter variable">-u</span> origin main<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><pre class="line-numbers language-cpp" data-language="cpp"><code class="language-cpp"><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"hello\n"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Hello, world!'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
       
       
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+            <tag> Scenery </tag>
+            
+        </tags>
       
     </entry>
     
