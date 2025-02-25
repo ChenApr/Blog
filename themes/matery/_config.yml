@@ -79,7 +79,7 @@ music:
   autoHide: true    # hide automaticaly
   server: netease   #require	music platform: netease, tencent, kugou, xiami, baidu
   type: playlist    #require song, playlist, album, search, artist
-  id: 3024486474     #require	song id / playlist id / album id / search keyword
+  id: 8613466899     #require	song id / playlist id / album id / search keyword
   fixed: true       # 开启吸底模式
   autoplay: false   # 是否自动播放
   theme: '#42b983'
@@ -138,7 +138,7 @@ socialLink:
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
   qq:
-  # bilibili: https://space.bilibili.com/38507723?spm_id_from=333.1387.0.0
+  bilibili: https://space.bilibili.com/38507723?spm_id_from=333.1387.0.0
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
   rss: true # true、false
