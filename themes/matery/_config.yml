@@ -16,9 +16,9 @@ menu:
   About:
     url: /about
     icon: fas fa-user-circle
-  Contact:
-    url: /contact
-    icon: fas fa-comments
+  随笔:
+    url: https://chenyuchun.top
+    icon: fas fa-pen
   Friends:
     url: /friends
     icon: fas fa-address-book
@@ -207,7 +207,7 @@ clicklove:
 profile:
   avatar: /Theresa.jpg
   career: Student
-  introduction: Student majoring in computer science and technology 
+  introduction: Student Majoring in CST.
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
