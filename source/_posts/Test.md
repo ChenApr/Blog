@@ -5,14 +5,17 @@ tags:
 ---
 
 
-``` Bash
-$ grep -r "hello world" ./"
+```sh
+$ git commit -m "chore: This is useless"
+git push -u origin main
 ```
 
-``` cpp
+```cpp
 int main(){
     printf("hello\n");
     return 0;
 }
 ```
-
+```js
+console.log('Hello, world!');
+```
