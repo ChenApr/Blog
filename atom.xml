@@ -6,7 +6,7 @@
   <link href="https://chenapr.github.io/atom.xml" rel="self"/>
   
   <link href="https://chenapr.github.io/"/>
-  <updated>2025-02-25T18:42:09.261Z</updated>
+  <updated>2025-02-26T14:55:05.773Z</updated>
   <id>https://chenapr.github.io/</id>
   
   <author>
@@ -17,50 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://chenapr.github.io/2025/02/25/hello-world/"/>
-    <id>https://chenapr.github.io/2025/02/25/hello-world/</id>
-    <published>2025-02-25T18:42:09.261Z</published>
-    <updated>2025-02-25T18:42:09.261Z</updated>
+    <title>Introductory</title>
+    <link href="https://chenapr.github.io/2025/02/26/linux-course-introductory/"/>
+    <id>https://chenapr.github.io/2025/02/26/linux-course-introductory/</id>
+    <published>2025-02-26T14:46:09.000Z</published>
+    <updated>2025-02-26T14:55:05.773Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;课程引言&quot;&gt;&lt;a href=&quot;#课程引言&quot; class=&quot;headerlink&quot; title=&quot;课程引言&quot;&gt;&lt;/a&gt;课程引言&lt;/h2&gt;&lt;p&gt;欢迎大家选择 Linux 基础课程。本课程并不是系统的 Linux</summary>
         
       
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Test</title>
-    <link href="https://chenapr.github.io/2025/02/24/test/"/>
-    <id>https://chenapr.github.io/2025/02/24/test/</id>
-    <published>2025-02-24T08:12:01.000Z</published>
-    <updated>2025-02-25T18:42:09.261Z</updated>
+    <category term="Linux Course" scheme="https://chenapr.github.io/categories/Linux-Course/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h1&gt;&lt;h2 id=&quot;2&quot;&gt;&lt;a href=&quot;#2&quot; class=&quot;headerlink&quot; title=&quot;2&quot;&gt;&lt;/a&gt;2&lt;/h2&gt;&lt;h3 id=&quot;3&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Test" scheme="https://chenapr.github.io/categories/Test/"/>
-    
-    
-    <category term="Test" scheme="https://chenapr.github.io/tags/Test/"/>
-    
-    <category term="Scenery" scheme="https://chenapr.github.io/tags/Scenery/"/>
+    <category term="DEESAST" scheme="https://chenapr.github.io/tags/DEESAST/"/>
     
   </entry>
   
