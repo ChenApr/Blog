@@ -1,5 +1,5 @@
 ---
-title: Introductory
+title: Linux课程大纲
 date: 2025-02-26 22:46:09
 author: April
 img: https://www.notion.so/images/page-cover/nasa_earth_grid.jpg
