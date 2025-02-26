@@ -66,7 +66,7 @@ Linux 的主要应用领域包括：
 
 ### 以下为部分可参考的案例
 
-- 以下内容摘自 许昊然 学长的讲义：
+- 以下内容摘自 xhr 学长的讲义：
 
   [**基于*Linux*的QT多平台兼容的打地鼠*游戏***](https://link.zhihu.com/?target=https%3A//github.com/zhangxq1/heatMouse)
 
