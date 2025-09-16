@@ -17,7 +17,6 @@
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
-    "hexo-generator-index": "^4.0.0",
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-tag": "^2.0.0",
     "hexo-permalink-pinyin": "^1.1.0",
@@ -27,5 +26,8 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1"
+  },
+  "devDependencies": {
+    "hexo-generator-index": "^4.0.0"
   }
 }
